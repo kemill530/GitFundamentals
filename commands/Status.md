@@ -14,7 +14,7 @@ git commit -m "Modified landing page"
 git status
 
 git push
-git staus
+git status
 ```
 ## Resources
 - [Git Status Documentation](https://git-scm.com/docs/gt-status)

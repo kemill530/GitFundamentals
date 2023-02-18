@@ -8,7 +8,7 @@ This can be done by adding the remote name and branch name:
 ```
 git pull origin main
 ```
-If thee is any upstream connection established, you can use `git pull` without specifying a remote or branch.
+If there is any upstream connection established, you can use `git pull` without specifying a remote or branch.
 
 ## Resources
 - [Git Pull Documentation](https://git-scm.com/docs/git-pull)

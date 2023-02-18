@@ -10,7 +10,7 @@ git init
 ```
 Once inside a git repository, you can start using commands such as
 [status](./Status.md)
-[add](./Add/md)
+[add](./Add.md)
 [commit](./Commit.md)
 [push](./Push.md)
 and more.
